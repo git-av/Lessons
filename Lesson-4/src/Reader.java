@@ -30,7 +30,7 @@ public class Reader extends JFrame{
 		add(l2);
 		add(t2);
 		add(l3);
-		//add(l4);
+		add(l4);
 		
 	}
 
